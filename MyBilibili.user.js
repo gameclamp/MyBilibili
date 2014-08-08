@@ -1,9 +1,11 @@
 // ==UserScript==
 // @name        MyBilibili
-// @namespace   http://
+// @author      9尾雪狐
+// @namespace   https://github.com/gameclamp/MyBilibili
 // @include     http://bilibili.kankanews.com/video/*
 // @include     http://www.bilibili.com/video/*
 // @version     1
+// @updateURL   https://github.com/gameclamp/MyBilibili/raw/master/MyBilibili.user.js
 // @grant       GM_xmlhttpRequest
 // ==/UserScript==
 var center = document.querySelector('.center');
